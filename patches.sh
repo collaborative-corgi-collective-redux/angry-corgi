@@ -26,8 +26,7 @@ patch() {
 
 apply-patches() {
   # Patch the UI function
-  # Don't use this, it breaks auto-kick
-  #patch "$filename" 25ea7 74 00 # 74 05
+  patch 25ea7 74 00 # 74 05
 
   # Patch UserInputHandling to kick players.
   # 
