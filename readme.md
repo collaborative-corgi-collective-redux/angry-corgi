@@ -15,11 +15,32 @@ Got an invader that:
 Kick 'em.
 
 We are currently providing a patch for the latest version of [PvPWatchdog][watchdog]:
-git hash 708504e7f2af90562c142b4ef0567be522f46a88.
+SHA1 of d3d11.dll: `0476b665c9a2120407b29fc8a61858ee033e52e0`, version `1.0.11`.
+
+## What?! ... And why?
+
+The developers of [PvP-Watchdog][watchdog] were opinionated in their original
+development, and desired that DarkSouls3 would continue to have working
+invasion mechanic, so they do not allow users of the mod to kick anyone. Only
+players the mod itself flags as cheating can be kicked.
+
+We disagree with them, because the majority of players we've encountered in
+PvP have been no fun to play with. They are max geared starter characters
+(twinking), draw fights out into battles of attrition lasting 15+ minutes,
+they never come to fight because they'd rather ambush you, and other things.
+And this is before you take into account players that might be cheating in
+ways that [PvP-Watchdog][watchdog] doesn't detect.
+
+So we decided to fix it. With Angry-Corgi you can kick anyone.
+
+## How?
+
+Anrgy-Corgi flags __every__ player as a cheater until you ignore them.
 
 ## FAQ
 
- * Is this supported? Nope.
- * Could this get me banned? No idea.
+ * Is this supported? Nope, use at your own peril.
+ * Could this get me banned? Don't know.
+ * I can't play with anyone. Angry-Corgi breaks Auto-Kick, turn it off.
 
 [watchdog]: https://github.com/Jellybaby34/Dark-Souls-3-PvP-Watchdog
