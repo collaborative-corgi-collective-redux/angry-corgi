@@ -1,0 +1,3 @@
+[submodule "Watchdog"]
+	path = Watchdog
+	url = https://github.com/Jellybaby34/Dark-Souls-3-PvP-Watchdog.git
