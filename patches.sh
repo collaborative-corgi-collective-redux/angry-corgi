@@ -71,7 +71,8 @@ main() {
   elif [[ "$hash" = "$end_hash" ]]; then
     echo "Already patched!"
     exit 0
-  else
+  elif [[ -e "${PATCH_FILE}" ]]; then
+    # only if the file exists do we delete & patch.
     echo "Mismatched hash!"
     echo " Found: ${hash}"
     echo " but expected: ${start_hash}"
@@ -83,4 +84,4 @@ main() {
   apply-patches
 }
 
-main "$@"
+main
