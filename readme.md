@@ -44,7 +44,7 @@ provided in this repo instead, installation is otherwise the same.
 
  * Do you accept pull requests? No.
  * Is this supported? Nope, use at your own peril.
- * Could this get me banned? Don't know.
+ * Could this get me banned? This makes conservative changes to [PvP-Watchdog][watchdog], so we expect you're just as likely to get banned for using [PvP-Watchdog][watchdog] itself.
  * I can't play with anyone. Angry-Corgi breaks Auto-Kick, turn it off.
  * How is this allowed? [PvP-Watchdog][watchdog] is distributed with the MIT License, which explicitly permits modification and distribution.
 
