@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOURCE_FILE="./Watchdog/d3d11.dll"
-PATCH_FILE="./d3d11.dll"
+PATCH_FILE="./Game/d3d11.dll"
 
 dec_addr() {
   (echo "ibase=16" ; echo "$1" | tr 'abcdef' 'ABCDEF') | bc
