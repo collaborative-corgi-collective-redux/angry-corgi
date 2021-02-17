@@ -39,8 +39,17 @@ Anrgy-Corgi flags __every__ player as a cheater until you ignore them.
 
 ## FAQ
 
+ * Do you accept pull requests? No.
  * Is this supported? Nope, use at your own peril.
  * Could this get me banned? Don't know.
  * I can't play with anyone. Angry-Corgi breaks Auto-Kick, turn it off.
+
+## Thanks
+
+Thanks to:
+
+ * The Spicy Chef - whose work on the original [DarkSouls3 PvP Watchdog][watchdog] made this possible.
+ * LukeYui - Who helped find and fix exploits to guard against.
+ * Eur0pa - Who created the original Dark Souls Watchdog.
 
 [watchdog]: https://github.com/Jellybaby34/Dark-Souls-3-PvP-Watchdog
