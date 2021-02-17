@@ -37,6 +37,9 @@ So we decided to fix it. With Angry-Corgi you can kick anyone.
 
 Anrgy-Corgi flags __every__ player as a cheater until you ignore them.
 
+Instead of using the .dll provided by [PvP-Watchdog][watchdog] use the one
+provided in this repo instead, installation is otherwise the same.
+
 ## FAQ
 
  * Do you accept pull requests? No.
