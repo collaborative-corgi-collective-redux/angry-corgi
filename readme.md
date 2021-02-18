@@ -99,7 +99,7 @@ resulted in any bans we don't expect you to get banned with this either.
 
  * Do you accept pull requests? No.
  * Is this supported? Nope, use at your own peril.
- * I can't play with anyone. Angry-Corgi breaks Auto-Kick, turn it off.
+ * I can't play with anyone? Auto-Kick was a feature supported by [PvP-Watchdog][watchdog], attempting to use it will prevent all players from connecting while running Angry-Corgi, ensure it is turned off.
  * How is this allowed? [PvP-Watchdog][watchdog] is distributed with the MIT License, which explicitly permits modification and distribution.
 
 ## Thanks
